@@ -18410,7 +18410,7 @@
               Xo.Boost &&
               Ko.value == Uo.None &&
               z.onRoad &&
-              z.speed > 5 &&
+              z.speed > 99999999 &&
               this.tiltX < -0.11 &&
               (Ko.set(Uo.Boost),
               setTimeout(() => {
