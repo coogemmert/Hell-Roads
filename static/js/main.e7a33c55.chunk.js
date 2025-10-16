@@ -17414,7 +17414,7 @@
             (this.mouse = { x: 0, y: 0 }),
             (this.prevMouse = { x: 0, y: 0 }),
             (this.mouseDist = 0),
-            (this.mouseCruiseSpeed = Rr.default),
+            (this.mouseCruiseSpeed = 100000),
             (this.autodrive = !1),
             (this.soggyStiff = !1),
             (this.soggyTurnInterval = 0.75),
